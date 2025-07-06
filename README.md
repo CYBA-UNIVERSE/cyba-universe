@@ -26,7 +26,6 @@
 
 ## Contact & Community
 
-**Fondateur** : 
 **Business** : partnerships@cyba-universe.com
 **Sécurité** : security@cyba-universe.com  
 **Formation** : formation@cyba-universe.com
