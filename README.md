@@ -32,7 +32,8 @@
 **💼 Formation** : formation@cyba-universe.com
 
 **Community Gaming** :
-- **Discord** : [CYBA Community](https://discord.gg/cyba-universe)
+- **GitHub** : [CYBA Universe](
+<!-- - **Discord** : [CYBA Community](https://discord.gg/cyba-universe) -->
 - **Twitter** : [@CYBAUniverse](https://twitter.com/CYBAUniverse)
 
 ---
