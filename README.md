@@ -3,14 +3,14 @@
 <div align="center">
   <img src="assets/images/baniere.png" alt="CYBA Universe Logo" />
 </div>
+
+----
+
 <div align="center">
   <img src="https://img.shields.io/badge/Version-Multi--Modules%20Gaming-cyan?style=for-the-badge&labelColor=black" alt="Multi-Modules Gaming" />
   <img src="https://img.shields.io/badge/Gaming-RPG%20System-purple?style=for-the-badge&labelColor=black" alt="RPG Gaming" />
   <img src="https://img.shields.io/badge/Production-Live-green?style=for-the-badge&logo=check" alt="Alpha V0.1" />
 </div>
-
----
-
 
 ## Formation Gaming Révolutionnaire
 
