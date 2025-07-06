@@ -7,6 +7,8 @@
 </div>
 
 ---
+<div align="center">
+<img src="" alt=" />
 
 ## Formation Gaming Révolutionnaire
 
