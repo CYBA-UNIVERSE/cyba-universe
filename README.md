@@ -37,12 +37,11 @@
 
 ---
 
-## ⚖️ Licences
+## ⚖️ Licence
 
-- **Code** : MIT License (open source)
-- **Contenu éducatif** : CC BY-NC-SA 4.0
-- **Design & Marques** : Propriété CYBA Universe SAS
-- **Modules formation** : Droits réservés usage éducatif
+**© CYBA UNIVERSE - Tous droits réservés**
+
+Licence propriétaire CYBA UNIVERSE. Reproduction, distribution ou modification interdite sans autorisation écrite préalable.
 
 ---
 
