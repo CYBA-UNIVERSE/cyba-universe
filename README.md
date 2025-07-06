@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Version-Multi--Modules%20Gaming-cyan?style=for-the-badge&labelColor=black" alt="Multi-Modules Gaming" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%2014%20%2B%20FastAPI-black?style=for-the-badge&logo=next.js" alt="Next.js + FastAPI" />
   <img src="https://img.shields.io/badge/Gaming-RPG%20System-purple?style=for-the-badge&labelColor=black" alt="RPG Gaming" />
-  <img src="https://img.shields.io/badge/Production-Live-green?style=for-the-badge&logo=check" alt="Production Live" />
+  <img src="https://img.shields.io/badge/Production-Live-green?style=for-the-badge&logo=check" alt="Alpha V0.1" />
 </div>
 
 ---
