@@ -26,9 +26,9 @@
 
 ## Contact & Community
 
-- **Business** : partnerships@cyba-universe.com
-- **Sécurité** : security@cyba-universe.com  
-- **Formation** : formation@cyba-universe.com
+- **Business** : partnerships@cyba-universe.com (partenariats, sponsors)
+- **Sécurité** : security@cyba-universe.com  (signalement de vulnérabilités, audits)
+- **Formation** : formation@cyba-universe.com (informations sur les formations, inscriptions)
 
 **Community Gaming** :
 - **GitHub** : [CYBA Universe](https://github.com/cyba-universe)
