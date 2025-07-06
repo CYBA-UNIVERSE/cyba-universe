@@ -1,7 +1,7 @@
 # CYBA Universe - Plateforme Gaming de Cybersécurité
 ----
 <div align="center">
-  <img src="assets/images/votre-image.png" alt="CYBA Universe Logo" />
+  <img src="assets/images/baniere.png" alt="CYBA Universe Logo" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Version-Multi--Modules%20Gaming-cyan?style=for-the-badge&labelColor=black" alt="Multi-Modules Gaming" />
